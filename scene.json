@@ -1,0 +1,30 @@
+{
+  "display": {
+    "title": "aclcrypto",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "aclcrypto",
+    "email": "kirschim@yahoo.de"
+  },
+  "owner": "0x6a8920D18B477c3e7446cf7f82dC0A9E38BF5FcF",
+  "scene": {
+    "parcels": [
+      "0,0"
+    ],
+    "base": "0,0"
+  },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": true,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
