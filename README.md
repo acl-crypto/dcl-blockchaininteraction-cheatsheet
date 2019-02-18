@@ -1,6 +1,6 @@
 # dcl-blockchaininteraction-cheatsheet
 <h1>My Blockchain-interaction Cheat-Sheet for Decentraland</h1>
-![Cheat-Sheet](examplepiceth.jpg)
+![Cheat-Sheet](https://github.com/acl-crypto/dcl-blockchaininteraction-cheatsheet/blob/master/examplepiceth.jpg)
 
 - Check if Metamask-connection is active
 
